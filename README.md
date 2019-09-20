@@ -5,3 +5,4 @@
 - **03** - CSS Variables
 - **04** - Array Cardio Day 1
 - **05** - Flex Panel Gallery
+- **06** - Ajax Type Ahead

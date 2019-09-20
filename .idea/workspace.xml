@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0770631a-0be2-469f-b022-1be8ff416996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -20,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,7 +50,12 @@
       <workItem from="1568547797336" duration="3969000" />
       <workItem from="1568659331627" duration="1433000" />
       <workItem from="1568661402117" duration="298000" />
-      <workItem from="1568664066815" duration="857000" />
+      <workItem from="1568664066815" duration="1018000" />
+      <workItem from="1568750064930" duration="378000" />
+      <workItem from="1568752593062" duration="978000" />
+      <workItem from="1568762292332" duration="337000" />
+      <workItem from="1568977530365" duration="36000" />
+      <workItem from="1568997613429" duration="1919000" />
     </task>
     <servers />
   </component>
