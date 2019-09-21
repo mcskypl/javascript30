@@ -8,3 +8,4 @@
 - **06** - Ajax Type Ahead
 - **07** - Array Cardio Day 2
 - **08** - Fun with HTML5 Canvas
+- **09** - 14 Must Know Dev Tools Tricks
