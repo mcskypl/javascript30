@@ -10,3 +10,4 @@
 - **08** - Fun with HTML5 Canvas
 - **09** - 14 Must Know Dev Tools Tricks
 - **10** - Hold Shift to Check Multiple Checkboxes
+- **11** - Custom HTML5 Video Player
