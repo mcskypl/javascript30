@@ -13,3 +13,5 @@
 - **11** - Custom HTML5 Video Player
 - **12** - Key Sequence Detection (KONAMI CODE)
 - **13** - Slide In on Scroll
+---
+- **30** - Whack A Mole Game

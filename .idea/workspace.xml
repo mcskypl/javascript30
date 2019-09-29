@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0770631a-0be2-469f-b022-1be8ff416996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -19,6 +20,7 @@
   <component name="ProjectId" id="1QqYztfYPyRKO6GB4q9UJ3Nyw2A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
@@ -65,7 +67,9 @@
       <workItem from="1569359907431" duration="18000" />
       <workItem from="1569437546602" duration="1959000" />
       <workItem from="1569664745919" duration="35000" />
-      <workItem from="1569664807933" duration="3071000" />
+      <workItem from="1569664807933" duration="3136000" />
+      <workItem from="1569678302838" duration="3902000" />
+      <workItem from="1569754438710" duration="2770000" />
     </task>
     <servers />
   </component>
