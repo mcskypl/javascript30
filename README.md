@@ -14,5 +14,6 @@
 - **12** - Key Sequence Detection (KONAMI CODE)
 - **13** - Slide In on Scroll
 - **14** - Object and Arrays - Reference VS Copy
+- **15** - LocalStorage and Event Delegation
 ---
 - **30** - Whack A Mole Game
