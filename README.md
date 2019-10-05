@@ -15,5 +15,6 @@
 - **13** - Slide In on Scroll
 - **14** - Object and Arrays - Reference VS Copy
 - **15** - LocalStorage and Event Delegation
+- **16** - CSS Text Shadow Mouse Move Effect
 ---
 - **30** - Whack A Mole Game
