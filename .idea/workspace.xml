@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0770631a-0be2-469f-b022-1be8ff416996" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/17/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -17,12 +16,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QqYztfYPyRKO6GB4q9UJ3Nyw2A" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.CoffeeScript" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,7 +74,8 @@
       <workItem from="1570052244332" duration="1001000" />
       <workItem from="1570125637003" duration="4938000" />
       <workItem from="1570292326476" duration="2628000" />
-      <workItem from="1570354513732" duration="1693000" />
+      <workItem from="1570354513732" duration="1759000" />
+      <workItem from="1570367670813" duration="3101000" />
     </task>
     <servers />
   </component>

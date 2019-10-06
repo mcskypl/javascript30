@@ -17,5 +17,6 @@
 - **15** - LocalStorage and Event Delegation
 - **16** - CSS Text Shadow Mouse Move Effect
 - **17** - Sorting Band Names without articles
+- **18** - Tally String Times with Reduce
 ---
 - **30** - Whack A Mole Game
