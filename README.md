@@ -19,4 +19,7 @@
 - **17** - Sorting Band Names without articles
 - **18** - Tally String Times with Reduce
 ---
+- **21** - Geolocation based Speedometer and Compass
+- **22** - Follow Along Links
+---
 - **30** - Whack A Mole Game
