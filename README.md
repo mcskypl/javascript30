@@ -23,5 +23,6 @@
 - **22** - Follow Along Links
 ---
 - **24** - Sticky Nav
+- **25** - Event Capture, Propagation, Bubbling and Once
 ---
 - **30** - Whack A Mole Game
