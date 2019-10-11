@@ -15,6 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/29/script.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1QqYztfYPyRKO6GB4q9UJ3Nyw2A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -82,7 +85,8 @@
       <workItem from="1570570164681" duration="6000" />
       <workItem from="1570650531998" duration="3230000" />
       <workItem from="1570731857909" duration="1320000" />
-      <workItem from="1570733193420" duration="7888000" />
+      <workItem from="1570733193420" duration="7949000" />
+      <workItem from="1570823043050" duration="3493000" />
     </task>
     <servers />
   </component>
